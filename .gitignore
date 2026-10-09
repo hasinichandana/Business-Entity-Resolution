@@ -1,7 +1,7 @@
-.DS_Store
-student_resource/
-__pycache__/
-*.pyc
 .venv/
 venv/
+__pycache__/
+*.pyc
+.DS_Store
 .env
+student_resource/dataset/
