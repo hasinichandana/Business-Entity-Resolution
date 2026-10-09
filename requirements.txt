@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+# pytorch
+lightgbm
+scikit-learn
+# tensorflow
+ipykernel
